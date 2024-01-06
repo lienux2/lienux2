@@ -4,22 +4,13 @@ One of the reasons I became software developer is my attention to detail and my 
 Here is insight of what I have done.
 
 ⚙️ My technical knowledge:
-  - Typescript
-  - HTML
-  - CSS
+  Typescript, HTML, CSS
     
 🧳Framework knowledge:
-  - React
-  - Angular
-  - Vue
-  - Bootstrap
-  - Next.js
-    
+  React, Angular, Vue, Bootstrap, Next.js
+  
 📚 Library knowledge:
-  - jQuery
-  - Axios
-  - React Router
-  - Redux
+  jQuery, Axios, React Router, Redux
 
 I am not afraid to face different challenges and eager to learn something new everyday.
 ## Most proud of:
