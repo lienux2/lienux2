@@ -15,5 +15,8 @@ Here is insight of what I have done.
 I am not afraid to face different challenges and eager to learn something new everyday.
 ## Most proud of:
   - [Blog with Next.js](https://github.com/lienux2/md-18-blog)
+    Blog App with Next.js. For data storing used MongoDB (Atlas).
   - [CRUD app with React and Redux](https://github.com/lienux2/MD-17-Redux-Toolkit)
+    Simple CRUD app in React using Vite build tool and Redux. Data can be added, deleted, see all or one, sort asc or desc and edited.
   - [Simple app with React Router and React Query](https://github.com/lienux2/MD-15---React-Router-React-Query)
+    Simple page using React Router and React Query. Data can be added, see all or see one. 
